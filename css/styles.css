@@ -9,15 +9,24 @@ hr {
     width: 100%;
     }
 
+
 html {
     color: #1D5C63;
     }
 
+
 h1 {
     color: red;
-    font-size: 200px;
 }
 
-img {
+.bacon {
     background: red;
+}
+
+.broccoli {
+    background: green;
+}
+
+#heading {
+    color: blue;
 }
